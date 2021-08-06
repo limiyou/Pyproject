@@ -1,0 +1,9 @@
+{
+  'User-Agent': 'python-requests/2.25.1',
+  'Accept-Encoding': 'gzip, deflate',
+  'Accept': '*/*',
+  'Connection': 'keep-alive',
+  'X-Lemonban-Media-Type': 'lemonban.v1',
+  'Content-Length': '50',
+  'Content-Type': 'application/json'
+}

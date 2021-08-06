@@ -1,0 +1,5 @@
+2021-05-07 18:49:21,503 -- [logger_test2.py - line:8] -ERROR:这个是用的我自己的配置的error的log
+2021-05-07 18:49:21,504 -- [logger_test2.py - line:9] -DEBUG:这个是我配置的debug的log
+2021-05-08 11:02:26,646 -- [logger_test2.py - line:8] -ERROR:这个是用的我自己的配置的error的log
+2021-05-08 11:02:26,659 -- [logger_test2.py - line:9] -DEBUG:这个是我配置的debug的log
+2021-05-08 11:05:27,916 -- [logger_test2.py - line:9] -CRITICAL:这个是我配置的critiacal的log
