@@ -16,7 +16,7 @@ def send_report(report_name):
     smtp.login(user='756093055@qq.com', password='lhereksoonbebedc')
     # 第2步：构建一封邮件
     msg = MIMEMultipart()
-    msg['Subject'] = report_name[-5]  # 邮件标题
+    msg['Subject'] = report_name[-4]  # 邮件标题
     msg['To'] = '756093055@qq.com'
     msg['From'] = '756093055@qq.com'
     # 构建发送内容
@@ -35,4 +35,4 @@ def send_report(report_name):
 
 
 if __name__ == '__main__':
-    send_report()
+    send_report('hhhh')
