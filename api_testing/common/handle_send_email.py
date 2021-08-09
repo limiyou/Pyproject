@@ -35,4 +35,4 @@ def send_report(report_name):
 
 
 if __name__ == '__main__':
-    send_report('hhhh')
+    send_report('0809测试报告')
